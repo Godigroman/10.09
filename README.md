@@ -73,7 +73,7 @@ hydra -L users.txt -P pass.txt < ip-адрес > ssh
 
 ![](https://cdn.discordapp.com/attachments/1265236202999779328/1277230528755535964/image.png?ex=66cc691f&is=66cb179f&hm=da6395c28ebae44f5ef2d2972b4b214ca9093d55a11b2a815795b1b2413edbc8&)
 
-![]()
+![](https://cdn.discordapp.com/attachments/1265236202999779328/1277593848473976843/image.png?ex=66cdbb7e&is=66cc69fe&hm=8d9efe13059a62cb12bab3d9c19c93abb5088978bc0af4074a514852d3923adb&)
 
 
 
